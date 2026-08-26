@@ -13,14 +13,14 @@ export default function Hero() {
         
       </div>
 
-      {/* Headline */}
+      {/* Headline 
       <h1 className="text-5xl sm:text-7xl font-extrabold tracking-tight text-white max-w-4xl leading-[1.1]">
         I build <span className="text-zinc-400 underline decoration-zinc-700 underline-offset-8">mobile apps</span> that ship.
-      </h1>
+      </h1>*/}
 
       {/* Bio Description */}
       <p className="mt-6 text-lg sm:text-xl text-zinc-400 max-w-2xl leading-relaxed">
-        I&apos;m Nthuxeko Shirinda, Full-stack developer (JavaScript, TypeScript, React, Node.js) with a UNISA IT Diploma and four shipped, unit-tested projects — including 100% Jest test coverage on an AI-driven game engine and a CI/CD pipeline that builds and signs Android release binaries via GitHub Actions. Brings a decade of high-pressure operational experience managing POS systems and training teams of 5+ staff. Comfortable across the stack: relational databases, REST APIs, MVC architecture, and Agile/Scrum workflows
+        I&apos;m Ntshuxeko Shirinda, Full-stack developer (JavaScript, TypeScript, React, Node.js) with a UNISA IT Diploma and four shipped, unit-tested projects — including 100% Jest test coverage on an AI-driven game engine and a CI/CD pipeline that builds and signs Android release binaries via GitHub Actions. Brings a decade of high-pressure operational experience managing POS systems and training teams of 5+ staff. Comfortable across the stack: relational databases, REST APIs, MVC architecture, and Agile/Scrum workflows
       </p>
 
       {/* Action Buttons */}

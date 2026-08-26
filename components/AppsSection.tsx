@@ -3,9 +3,9 @@ import { ExternalLink } from 'lucide-react';
 
 export default function AppsSection() {
   const apps = [
-    { title: 'DocuLensAI', slug: 'doculensai', category: 'AI Document Scanner' },
+    { title: 'Battleship', slug: 'battleship', category: 'Strategy Game' },
     { title: 'Memory', slug: 'memory', category: 'Game / Template' },
-    { title: 'Nearby', slug: 'nearby', category: 'Location Social' },
+    { title: 'PR14', slug: 'PR14', category: 'Fitness Application' },
   ];
 
   return (
