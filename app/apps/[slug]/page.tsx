@@ -30,7 +30,7 @@ const appsData: Record<string, {
     tags: ['React Native', 'Expo Router', 'SQLite', 'Github Action', 'Git', 'Workflows YAML'],
     metric: '',
     subMetric: '',
-    longDetails: 'Implemented offline data persistence by seeding an embedded SQLite database, enabling dynamic UI components to render based on local queries.',
+    longDetails: 'Implemented offline data persistence by seeding an embedded SQLite database, enabling dynamic UI components to render based on local queries. ',
     link: 'https://github.com/ntshuxekoshirinda/PR14',
   },
   battleship: {
@@ -39,7 +39,7 @@ const appsData: Record<string, {
     description: '',
     tags: ['Jest', 'Webpack', 'Vanilla JavaScript'],
     metric: 'achieved 100% unit test coverage using Jest',
-    subMetric: '10 pro filters',
+    subMetric: '',
     longDetails: 'A state-machine evaluation algorithm for an AI opponent, allowing the bot to prioritize high-probability tiles using a randomized targeting heuristic.',
     link: 'https://ntsbattleship.netlify.app/',
   },

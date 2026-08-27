@@ -8,8 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Your Name — Developer Portfolio",
-  description: "Senior developer building apps that ship.",
+  title: "Ntshuxeko Shirinda — Developer Portfolio",
+  description: "Full-Stack developer ",
 };
 
 export default function RootLayout({
