@@ -2,6 +2,7 @@ import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import TechMarquee from "@/components/TechMarquee";
 import Footer from "@/components/Footer";
+import Contact from '@/components/Contact';
 import ProjectsSection from "@/components/ProjectsSection";
 import AppsSection from "@/components/AppsSection";
 
@@ -13,6 +14,7 @@ export default function Home() {
         <Hero />
         <TechMarquee />
         <ProjectsSection/>
+        <Contact/>
         <AppsSection />
       </main>
       <Footer />

@@ -14,7 +14,7 @@ export default function ProjectsSection() {
       metric: 'Open Source',
       subMetric: '100% offline',
       // Add your image path here (e.g., place images in your public/images/ folder)
-      image: '/legs.jpg',
+      image: '/PR14.jpg',
       externalLinks: [
         { name: 'GitHub', href: 'https://github.com/ntshuxekoshirinda/PR14' },
         
@@ -29,7 +29,7 @@ export default function ProjectsSection() {
       tags: ['Jest', 'Webpack', 'Vanilla JavaScript'],
       metric: '',
       subMetric: '',
-      image: '/legs.jpg',
+      image: '/battleship.png',
       externalLinks: [
         { name: 'GitHub', href: 'https://github.com/ntshuxekoshirinda/battleship'},
         { name: 'PLAY', href: 'https://ntsbattleship.netlify.app'},
@@ -44,7 +44,7 @@ export default function ProjectsSection() {
       tags: ['React', 'VITE','CSS', 'TypeScript', 'REST API (POKEAPI)', 'GOOGLE FONTS'],
       metric: '',
       subMetric: '',
-      image: '/legs.jpg',
+      image: '/memory.png',
       externalLinks: [
         { name: 'GitHub', href: 'https://github.com/ntshuxekoshirinda/memory-card' },
         { name: 'PLAY', href: 'https://memory-card-8j7.pages.dev/'},

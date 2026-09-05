@@ -13,7 +13,9 @@ export default function TechMarquee() {
     "NEXT.JS",
     "SQL",
     "GIT",
-    "GITHUB"
+    "GITHUB",
+    "TAILWIND",
+    "PYTHON"
   ];
 
   return (
