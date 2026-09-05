@@ -85,11 +85,11 @@ export default async function AppDetailPage({ params }: PageProps) {
           <div className="grid grid-cols-2 gap-4 py-6 border-y border-zinc-800">
             <div className="bg-zinc-900/50 p-4 rounded-xl border border-zinc-800/80">
               <div className="text-2xl font-bold text-white font-mono">{app.metric}</div>
-              <div className="text-xs text-zinc-500 mt-1 font-mono uppercase">Primary Metric</div>
+              <div className="text-xs text-zinc-400 mt-1 font-mono uppercase">Primary Metric</div>
             </div>
             <div className="bg-zinc-900/50 p-4 rounded-xl border border-zinc-800/80">
               <div className="text-xl font-bold text-zinc-200 font-mono">{app.subMetric}</div>
-              <div className="text-xs text-zinc-500 mt-1 font-mono uppercase">Platform Status</div>
+              <div className="text-xs text-zinc-400 mt-1 font-mono uppercase">Platform Status</div>
             </div>
           </div>
 
@@ -101,7 +101,7 @@ export default async function AppDetailPage({ params }: PageProps) {
 
           {/* Tech Stack Tags */}
           <div className="pt-4">
-            <h3 className="text-xs font-mono text-zinc-500 uppercase tracking-wider mb-3">Built With</h3>
+            <h3 className="text-xs font-mono text-zinc-400 uppercase tracking-wider mb-3">Built With</h3>
             <div className="flex flex-wrap gap-2">
               {app.tags.map((tag) => (
                 <span key={tag} className="text-xs font-mono bg-zinc-900 border border-zinc-800 text-zinc-300 px-3 py-1.5 rounded-md">
