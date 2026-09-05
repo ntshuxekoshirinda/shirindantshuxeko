@@ -10,8 +10,8 @@ test.describe('Automated Accessibility Audits', () => {
     expect(accessibilityScanResults.violations).toEqual([]);
   });
 
-  test('Dynamic App Page (MemorIQ) should have no violations', async ({ page }) => {
-    await page.goto('/apps/memoriq');
+  test('Dynamic App Page (Memory) should have no violations', async ({ page }) => {
+    await page.goto('/apps/memory');
     
     const accessibilityScanResults = await new AxeBuilder({ page }).analyze();
     

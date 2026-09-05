@@ -13,10 +13,9 @@ export default function Hero() {
         
       </div>
 
-      {/* Headline 
       <h1 className="text-5xl sm:text-7xl font-extrabold tracking-tight text-white max-w-4xl leading-[1.1]">
         I build <span className="text-zinc-400 underline decoration-zinc-700 underline-offset-8">mobile apps</span> that ship.
-      </h1>*/}
+      </h1>
 
       {/* Bio Description */}
       <p className="mt-6 text-lg sm:text-xl text-zinc-400 max-w-2xl leading-relaxed">

@@ -26,7 +26,7 @@ export default function Footer() {
 
         {/* Col 3: Contact  */}
         <div className="space-y-3">
-          <h4 className="text-xs font-mono uppercase tracking-wider text-zinc-500 mb-3">Contact</h4>
+          <h4 className="text-xs font-mono uppercase tracking-wider text-zinc-400 mb-3">Contact</h4>
           <a href="mailto:ntshuxekohirinda96@gmail.com" className="block text-white hover:underline text-sm font-medium">
             ntshuxekohirinda96@gmail.com
           </a>
@@ -34,7 +34,7 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="max-w-7xl mx-auto mt-12 pt-6 border-t border-zinc-900 flex flex-col sm:flex-row items-center justify-between text-xs text-zinc-500 font-mono">
+      <div className="max-w-7xl mx-auto mt-12 pt-6 border-t border-zinc-900 flex flex-col sm:flex-row items-center justify-between text-xs text-zinc-400 font-mono">
         <p>© 2026 Ntshuxeko Shirinda</p>
         
       </div>

@@ -20,7 +20,7 @@ export default function AppsSection() {
             <h3 className="text-white font-medium group-hover:text-zinc-200 transition">
               {app.title}
             </h3>
-            <p className="text-xs font-mono text-zinc-500 mt-1">{app.category}</p>
+            <p className="text-xs font-mono text-zinc-400 mt-1">{app.category}</p>
           </div>
           <div className="w-8 h-8 rounded-full bg-zinc-900 border border-zinc-800 flex items-center justify-center group-hover:bg-zinc-800 transition">
             <ExternalLink className="w-3.5 h-3.5 text-zinc-400 group-hover:text-white transition" />

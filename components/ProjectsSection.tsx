@@ -58,7 +58,7 @@ export default function ProjectsSection() {
     <section id="projects" className="py-16 border-t border-zinc-900">
       <div className="flex flex-col md:flex-row md:items-end justify-between mb-12">
         <div>
-          <span className="text-xs font-mono text-zinc-500 uppercase tracking-widest">02 · FEATURED PROJECTS</span>
+          <span className="text-xs font-mono text-zinc-400 uppercase tracking-widest">02 · FEATURED PROJECTS</span>
           <h2 className="text-3xl sm:text-4xl font-bold tracking-tight text-white mt-2">Shipped & in production.</h2>
           <p className="text-zinc-400 mt-2 max-w-xl text-sm sm:text-base">
             Five selected case studies. The full catalog of apps, commercial templates, and open-source side quests lives below.
