@@ -29,7 +29,7 @@ export default function ProjectsSection() {
       tags: ['Jest', 'Webpack', 'Vanilla JavaScript'],
       metric: '',
       subMetric: '',
-      image: '/battleship.jpg',
+      image: '/battleship.JPG',
       externalLinks: [
         { name: 'GitHub', href: 'https://github.com/ntshuxekoshirinda/battleship'},
         { name: 'PLAY', href: 'https://ntsbattleship.netlify.app'},
@@ -44,7 +44,7 @@ export default function ProjectsSection() {
       tags: ['React', 'VITE','CSS', 'TypeScript', 'REST API (POKEAPI)', 'GOOGLE FONTS'],
       metric: '',
       subMetric: '',
-      image: '/memory.jpg',
+      image: '/memory.JPG',
       externalLinks: [
         { name: 'GitHub', href: 'https://github.com/ntshuxekoshirinda/memory-card' },
         { name: 'PLAY', href: 'https://memory-card-8j7.pages.dev/'},
