@@ -43,6 +43,16 @@ const appsData: Record<string, {
     longDetails: 'A state-machine evaluation algorithm for an AI opponent, allowing the bot to prioritize high-probability tiles using a randomized targeting heuristic.',
     link: 'https://ntsbattleship.netlify.app/',
   },
+  EPL: {
+    title: 'EPL Results Prediction',
+    subtitle: 'AI-powered betting assistant',
+    description: 'An intelligent betting predictor using Dixon-Coles Poisson Model, SciPy/Math module, Kelly Criterion algorithms',
+    tags: ['Python', 'FastAPI','Streamlit', 'Pandas','Plotly Express','PostgreSQL', 'Unicorn'],
+    metric: '',
+    subMetric: '',
+    longDetails: 'Designed and deployed a RESTful API using FastAPI and Uvicorn on Render, implementing a Dixon-Coles Poisson distribution model to generate real-time match outcome probabilities, Expected Value (EV), and fractional Kelly Criterion bet sizing..',
+    link: 'https://bettingpredictor-hc6jhet9y55gnxatxs2co7.streamlit.app/',
+  },
 };
 
 interface PageProps {

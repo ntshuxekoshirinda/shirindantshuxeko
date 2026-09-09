@@ -6,6 +6,7 @@ export default function AppsSection() {
     { title: 'Battleship', slug: 'battleship', category: 'Strategy Game' },
     { title: 'Memory', slug: 'memory', category: 'Game / Template' },
     { title: 'PR14', slug: 'PR14', category: 'Fitness Application' },
+    { title: 'EPL Results Prediction', slug: 'EPL', category: 'Algorithmic Application' },
   ];
 
   return (

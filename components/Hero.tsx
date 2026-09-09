@@ -19,7 +19,14 @@ export default function Hero() {
 
       {/* Bio Description */}
       <p className="mt-6 text-lg sm:text-xl text-zinc-400 max-w-2xl leading-relaxed">
-        I&apos;m Ntshuxeko Shirinda, Full-stack developer (JavaScript, TypeScript, React, Node.js) with a UNISA IT Diploma and shipped, unit-tested projects — including 100% Jest test coverage on an AI-driven game engine and a CI/CD pipeline that builds and signs Android release binaries via GitHub Actions. Comfortable across the stack: relational databases, REST APIs, MVC architecture, and Agile/Scrum workflows
+        I&apos;m Ntshuxeko Shirinda, Full-stack developer (JavaScript, TypeScript, React, Node.js, Python) with a IT Diploma from the University of South Africa
+and six shipped, deployed projects spanning web, mobile, and data engineering — including 100
+percent Jest test coverage on an AI-driven game engine, a CI/CD pipeline that builds and signs
+Android release binaries via GitHub Actions, and a real-time sports analytics platform using
+FastAPI and PostgreSQL with statistical modeling to generate live betting probabilities. Brings a
+decade of high-pressure operational experience managing POS systems and training teams of 5+
+staff. Comfortable across the stack: relational databases, REST APIs, MVC architecture,
+automated accessibility testing (WCAG 2 AA), and Agile/Scrum workflows.
       </p>
 
       {/* Action Buttons */}

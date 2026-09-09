@@ -34,7 +34,7 @@ export default function Navbar() {
         {/* Right Action Buttons */}
         <div className="hidden sm:flex items-center space-x-4">
           <a
-            href="https://github.com"
+            href="https://github.com/ntshuxekoshirinda"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-1 text-sm text-zinc-400 hover:text-white transition"

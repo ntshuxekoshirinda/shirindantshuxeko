@@ -50,6 +50,21 @@ export default function ProjectsSection() {
         { name: 'PLAY', href: 'https://memory-card-8j7.pages.dev/'},
       ],
     },
+    {
+      id: '04',
+      slug: 'EPL',
+      title: 'EPL Results Prediction',
+      subtitle: 'AI-powered betting assistant',
+      description: 'An intelligent betting predictor using Dixon-Coles Poisson Model, SciPy/Math module, Kelly Criterion algorithms',
+      tags: ['Python', 'FastAPI','Streamlit', 'Pandas','Plotyl Express','PostgreSQL', 'Unicorn'],
+      metric: '',
+      subMetric: '',
+      image: '/EPL.JPG',
+      externalLinks: [
+        { name: 'GitHub', href: 'https://github.com/ntshuxekoshirinda/betting_predictor' },
+        { name: 'PLAY', href: 'https://bettingpredictor-hc6jhet9y55gnxatxs2co7.streamlit.app'},
+      ],
+    },   
     
     
   ];
